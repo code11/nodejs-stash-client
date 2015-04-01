@@ -1,6 +1,6 @@
 {
   "name": "nodejs-stash-client",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "REST Client for Atlassian's Stash",
   "author": {
     "name": "Kulikov Dmitry",
@@ -26,28 +26,5 @@
     "q": "^1.1.2",
     "request": "^2.51.0"
   },
-  "devDependencies": {},
-  "gitHead": "f964d3c4a50ec9f151470d8820d002c1334ba8b5",
-  "homepage": "https://github.com/garfik/nodejs-stash-client",
-  "_id": "nodejs-stash-client@0.0.1",
-  "_shasum": "55e7bc669b050f19ab9668a8e25098d9ded6160a",
-  "_from": "nodejs-stash-client@",
-  "_npmVersion": "2.3.0",
-  "_nodeVersion": "0.10.36",
-  "_npmUser": {
-    "name": "garfik",
-    "email": "garf.freeman@gmail.com"
-  },
-  "maintainers": [
-    {
-      "name": "garfik",
-      "email": "garf.freeman@gmail.com"
-    }
-  ],
-  "dist": {
-    "shasum": "55e7bc669b050f19ab9668a8e25098d9ded6160a",
-    "tarball": "http://registry.npmjs.org/nodejs-stash-client/-/nodejs-stash-client-0.0.1.tgz"
-  },
-  "_resolved": "https://registry.npmjs.org/nodejs-stash-client/-/nodejs-stash-client-0.0.1.tgz",
-  "readme": "ERROR: No README data found!"
+  "devDependencies": {}
 }

@@ -25,3 +25,4 @@ $RECYCLE.BIN/
 *.lnk
 .idea
 test.js
+lib/stash-repo.js
