@@ -2,11 +2,7 @@
   "name": "nodejs-stash-client",
   "version": "0.0.2",
   "description": "REST Client for Atlassian's Stash",
-  "author": {
-    "name": "Kulikov Dmitry",
-    "email": "garf.freeman@gmail.com",
-    "url": "http://www.garfik.ru"
-  },
+  "author": "Kulikov Dmitry <garf.freeman@gmail.com> (http://www.garfik.ru)",
   "directories": {
     "lib": "./lib"
   },
