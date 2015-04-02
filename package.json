@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/garfik/nodejs-stash-client.git"
+    "url": "https://github.com/code11/nodejs-stash-client.git"
   },
   "bugs": {
     "url": "https://github.com/garfik/nodejs-stash-client/issues"
